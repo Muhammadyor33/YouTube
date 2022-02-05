@@ -1,0 +1,293 @@
+.login_box {
+  margin: 0;
+  padding: 0;
+  max-width: 490px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5%;
+  padding: 20px;
+  background-color: #fff;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_boxw {
+  margin: 0;
+  padding: 0;
+  max-width: 490px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5%;
+  padding: 20px;
+  background-color: #17171E;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_box_is {
+  margin: 0;
+  padding: 0;
+  max-width: 450px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 36px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_select {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 0;
+  padding: 5px 15px 5px 15px;
+  color: #fff;
+  background: #FF0000;
+  border: 1px solid #FF0000;
+  border-radius: 31px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_selectw {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 0;
+  padding: 5px 15px 5px 15px;
+  color: #FF0000;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 31px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_select:nth-child(1) {
+  margin-right: 10px;
+}
+
+.login_selectw:nth-child(1) {
+  margin-right: 10px;
+}
+
+.login_option {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 0;
+  padding: 5px 15px 5px 15px;
+  color: #000;
+  background: #fff;
+  border: 1px solid #FF0000;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_optionw {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 0;
+  padding: 5px 15px 5px 15px;
+  background: #fff;
+  border: 1px solid #fff;
+  color: #FF0000;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_h1 {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 42px;
+  line-height: 49px;
+  color: #000;
+  margin-left: 2%;
+  margin-bottom: 36px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_h1w {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 42px;
+  line-height: 49px;
+  color: #fff;
+  margin-left: 2%;
+  margin-bottom: 36px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_input {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  max-width: 450px;
+  width: 100%;
+  line-height: 24px;
+  color: #FF0000;
+  background: #FFFFFF;
+  border: 1px solid #FF0000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 6px;
+  margin-bottom: 25px;
+  padding: 23px 0 23px 20px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_inputw {
+  margin: 0;
+  padding: 0;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  max-width: 450px;
+  width: 100%;
+  color: #FF0000;
+  background: #FFFFFF;
+  border: 1px solid #FF0000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 6px;
+  margin-bottom: 25px;
+  padding: 23px 0 23px 20px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_btn {
+  margin: 0;
+  padding: 0;
+  max-width: 450px;
+  width: 100%;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 30px;
+  text-align: center;
+  color: #FFF;
+  background: #FF0000;
+  border: 1px solid #FF0000;
+  border-radius: 76px;
+  padding: 18px 0;
+  margin-bottom: 40px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_btnw {
+  margin: 0;
+  padding: 0;
+  max-width: 450px;
+  width: 100%;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #FF0000;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 76px;
+  text-decoration: none;
+  padding: 18px 0;
+  margin-bottom: 40px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_btn_link {
+  color: #fff;
+  text-decoration: none;
+  padding: 18px 195px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_btn_linkw {
+  color: #FF0000;
+  text-decoration: none;
+  padding: 18px 195px;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_link_box {
+  margin: 0;
+  padding: 0;
+  max-width: 450px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.login_link {
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #FF0000;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+
+.login_linkw {
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #fff;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+}
+/*# sourceMappingURL=Login.css.map */

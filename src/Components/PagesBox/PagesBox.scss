@@ -1,0 +1,31 @@
+.pages_box {
+    margin: 0;
+    padding: 0;
+    max-width: 1740px;
+    width: 100%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    transition: ease 1s;
+    background-color: #fff;
+}
+
+.pages_boxw {
+    margin: 0;
+    padding: 0;
+    max-width: 1740px;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    transition: ease 1s;
+    background-color: #17171E;
+}
+
+.pages_box_site_bar_home_box {
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+}

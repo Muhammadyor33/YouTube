@@ -1,0 +1,116 @@
+.home_girl_imgg {
+  margin: 0;
+  padding: 0;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.home_girl_textt {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 20px;
+  color: #19202C;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+  margin-right: 19px;
+  text-decoration: none;
+  margin-bottom: 7px;
+}
+
+.home_girl_texttw {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 20px;
+  color: #898989;
+  -webkit-transition: ease 1s;
+  transition: ease 1s;
+  margin-right: 19px;
+  text-decoration: none;
+  margin-bottom: 7px;
+}
+
+.home_girl_titlee {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 16px;
+  color: #C2C2C2;
+  margin-bottom: 14px;
+  margin-top: 4px;
+}
+
+.home_girl_title_text {
+  margin: 0;
+  padding: 0;
+  width: 820px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000;
+  margin-bottom: 14px;
+}
+
+.home_girl_title_textw {
+  margin: 0;
+  padding: 0;
+  width: 820px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #898989;
+  margin-bottom: 14px;
+}
+
+.home_girl_title_text:hover {
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+
+.user_name_text_title_box {
+  margin-bottom: -8%;
+}
+
+.home_girl_title_text_show_more {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 25px;
+  color: #C2C2C2;
+}
+
+.home_girl_title_text_box_btn {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFF;
+  background: #FF0000;
+  border-radius: 20px;
+  padding: 10px 20px;
+  border: none;
+}
+
+.home_user_name_btn_box {
+  width: 1125px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/*# sourceMappingURL=PhotosPhotoPage1.css.map */

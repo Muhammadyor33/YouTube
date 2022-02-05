@@ -1,0 +1,131 @@
+.vissualy-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+.site_bar_list {
+  margin-bottom: 50px;
+}
+
+.site_bar_list_item {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex: start;
+  margin-bottom: 25px;
+}
+
+.site_bar_list_item_box {
+  margin: 0;
+  padding: 0;
+  width: 25px;
+  margin-right: 13px;
+}
+
+.site_bar_list_item_text--active {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  color: #FF0000;
+  transition: ease 1s;
+}
+
+.site_bar_list_item_text {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  color: #898989;
+  transition: ease 1s;
+}
+
+.site_bar_list_item_textw {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  color: #fff;
+  transition: ease 1s;
+}
+
+.user_list_item {
+  display: flex;
+  align-items: center;
+  flex: start;
+  margin-bottom: 25px;
+}
+
+.user_list_item_img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.icon_text_box {
+  display: flex;
+  align-items: center;
+  flex: start;
+  margin-bottom: 58px;
+  margin-left: 0.2%;
+}
+
+.site_bar_users_text {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000;
+  margin-bottom: 33px;
+  text-decoration: none;
+  transition: ease 1s;
+}
+
+.site_bar_users_textw {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #898989;
+  margin-bottom: 33px;
+  text-decoration: none;
+  transition: ease 1s;
+}
+
+.show_more_strelca {
+  margin-left: 3.5px;
+  margin-right: 20px;
+}
+
+.site_bar_navlink_text {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  color: #898989;
+  transition: ease 1s;
+  text-decoration: none;
+}
+
+.setting_text_box {
+  display: flex;
+  align-items: center;
+  flex: start;
+}

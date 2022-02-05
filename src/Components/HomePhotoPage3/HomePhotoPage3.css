@@ -1,0 +1,46 @@
+.user_list_item {
+  margin: 0;
+  padding: 0;
+  margin-right: 30px;
+}
+
+.user_list_item:nth-child(6) {
+  margin: 0;
+}
+
+.photo_list_item_img {
+  margin: 0;
+  padding: 0;
+  border-radius: 20px;
+  margin-bottom: -3%;
+}
+
+.photos_box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+}
+
+.right_left_box_btn {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFF;
+  background: #FF0000;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin-left: -330%;
+  margin-right: 103%;
+}
+/*# sourceMappingURL=HomePhotoPage3.css.map */

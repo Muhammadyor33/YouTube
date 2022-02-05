@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mBAAmB,CAAC;EAClB,aAAa,EAAE,IAAI;CACpB",
+    "sources": [
+        "UserProfilePage1.scss"
+    ],
+    "names": [],
+    "file": "UserProfilePage1.css"
+}
